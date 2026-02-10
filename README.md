@@ -1,2 +1,2 @@
-# MHAJ Mod Guide
+# MHAJ Mod Launcher Guide
 coming soon...
