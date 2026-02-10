@@ -7,3 +7,5 @@ After selecting a valid zip file the mod will be stored locally and copied to th
 If the mod author didnt not include a name.txt, description.txt or splash.png then the defaults will be applied
 
 Clicking the checkbox will enable/disable a mod
+
+mod developers please check [here](https://github.com/mewxyx/MHAJ-Mod-Launcher/blob/main/md/ManuallyCreatingMods.md)
