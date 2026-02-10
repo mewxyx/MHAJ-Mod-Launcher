@@ -1,5 +1,10 @@
 # MHAJ Mod Launcher Guide
 
+# How To Update
+- Delete your old "AJ Launcher.exe"
+- Download latest version
+- put the exe in the same place as last time
+
 ## Download Links
 - [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
 - Nexus
@@ -18,6 +23,7 @@
 
 Features to be added:
 - Save File Backups
-- .asi support
-- GameBanana support
+- .asi Support
+- GameBanana Support
 - Nexus Support
+- Auto Update
