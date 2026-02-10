@@ -1,1 +1,1 @@
-Launcher Version: 0.1
+Launcher Version: 0.2
