@@ -1,5 +1,10 @@
 # MHAJ Mod Launcher Guide
 
+## Download Links
+- [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
+- Nexus
+- Game Banana
+
 ## Embeded Resources
 - [Programs Used](https://github.com/mewxyx/MHAJ-Mod-Launcher/blob/main/md/EmbededResources.md)
 
