@@ -3,7 +3,7 @@
 ## Download Links
 - [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
 - Nexus
-- Game Banana
+- GameBanana
 
 ## Embeded Resources
 - [Programs Used](https://github.com/mewxyx/MHAJ-Mod-Launcher/blob/main/md/EmbededResources.md)
@@ -19,3 +19,5 @@
 Features to be added:
 - Save File Backups
 - .asi support
+- GameBanana support
+- Nexus Support
