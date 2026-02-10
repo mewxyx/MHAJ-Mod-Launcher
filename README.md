@@ -3,7 +3,7 @@
 # How To Update
 - Delete your old "AJ Launcher.exe"
 - Download latest version from releases
-- put the exe in the same place as last time
+- Put the exe in the same place as last time
 
 ## Download Links
 - [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
