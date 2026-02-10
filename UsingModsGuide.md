@@ -1,1 +1,1 @@
-# MHAJ Mod Guide
+# MHAJ Launcher Guide
