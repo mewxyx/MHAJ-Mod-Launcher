@@ -13,4 +13,7 @@ Optional:
 - description.txt (this will be the mods description in the launcher)
 - splash.png (this will be the mods cover/splash image in the launcher)
 
+Optional/Required:
+- dblist.txt (IF YOU HAVE MADE CHANGES)
+
 mod developers please check [here](https://github.com/mewxyx/MHAJ-Mod-Launcher/blob/main/md/ManuallyCreatingMods.md)
