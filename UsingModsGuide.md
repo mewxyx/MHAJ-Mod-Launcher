@@ -1,1 +1,0 @@
-# MHAJ Launcher Guide
