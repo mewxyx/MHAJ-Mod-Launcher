@@ -7,7 +7,6 @@
 
 ## Download Links
 - [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
-- [Nexus](https://www.nexusmods.com/myheroacademiaallsjustice/mods/11)
 - [GameBanana](https://gamebanana.com/tools/21891)
 
 ## Embeded Resources
@@ -25,5 +24,4 @@ Features to be added:
 - Save File Backups
 - .asi Support
 - GameBanana Support
-- Nexus Support
 - Auto Update
