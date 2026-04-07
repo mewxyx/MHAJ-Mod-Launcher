@@ -6,7 +6,7 @@
 - Put the exe in the same place as last time
 
 ## Download Links
-- [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases/download/Functional-Version/AJ.Launcher.exe)
+- [GitHub](https://github.com/mewxyx/MHAJ-Mod-Launcher/releases)
 - [GameBanana](https://gamebanana.com/tools/21891)
 
 ## Embeded Resources
